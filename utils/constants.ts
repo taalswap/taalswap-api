@@ -1,4 +1,4 @@
-import { ChainId, Token } from "@pancakeswap-libs/sdk";
+import { ChainId, Token } from "taalswap-sdk";
 
 // BEP-20 addresses.
 export const CAKE = "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82";
