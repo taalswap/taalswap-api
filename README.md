@@ -1,6 +1,6 @@
-# pancake-api
+# taalswap-api
 
-Set of endpoints utilities for PancakeSwap, based on Serverless.
+Set of endpoints utilities for TaalSwap, based on Serverless.
 
 ## Dependencies
 
